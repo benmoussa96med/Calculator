@@ -44,3 +44,4 @@ function divid(){
   divideBtn.addEventListener('click',divid);
 
   alert("message for testing");
+  alert('hello frineds');
