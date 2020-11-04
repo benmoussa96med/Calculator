@@ -42,3 +42,5 @@ function divid(){
     createAndWriteOutput('/',initialresult,currentResult);
   }
   divideBtn.addEventListener('click',divid);
+
+  alert("message for testing");
